@@ -1,1 +1,1 @@
-# poc-hapijs
+# React-SSR-Node-HapiJS
